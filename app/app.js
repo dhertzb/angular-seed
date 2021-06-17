@@ -3,6 +3,7 @@
 angular
   .module("myApp", [
     "ngTable",
+    "ngNavbar",
     "ngRoute",
     "myApp.view1",
     "myApp.view2",
